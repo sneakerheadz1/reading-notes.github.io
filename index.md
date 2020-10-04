@@ -1,26 +1,26 @@
-## Welcome to GitHub Pages
+## Welcome to my Reading Notes
 
-You can use the [editor on GitHub](https://github.com/sneakerheadz1/reading-notes.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#You can use the [editor on GitHub](https://github.com/sneakerheadz1/reading-notes.github.io/edit/gh-pages/index.md) to maintain and preview the content for your #website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown #files.
 
-### Markdown
+### Code 102 - Intro to Software Development
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-Reading Notes
+# Code 201 - Foundations of Software Development
 
-## Header 2
-Code 102 - Intro to Software Development
-Code 201 - Foundations of Software Development
-Code 301 - Intermediate Software Development
+
+## Code 301 - Intermediate Software Development
+
+
+
 Code 401 - Advanced Software Development
 
-### Header 3
+### Code 401 - Advanced Software Development
 
 - Bulleted
 - List
