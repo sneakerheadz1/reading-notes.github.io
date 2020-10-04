@@ -12,7 +12,14 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+Reading Notes
+
 ## Header 2
+Code 102 - Intro to Software Development
+Code 201 - Foundations of Software Development
+Code 301 - Intermediate Software Development
+Code 401 - Advanced Software Development
+
 ### Header 3
 
 - Bulleted
