@@ -1,8 +1,8 @@
 ## Welcome to my Reading Notes
 
-#You can use the [editor on GitHub](https://github.com/sneakerheadz1/reading-notes.github.io/edit/gh-pages/index.md) to maintain and preview the content for your #website in Markdown files.
+You can use the [editor on GitHub](https://github.com/sneakerheadz1/reading-notes.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-#Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown #files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown #files.
 
 ### Code 102 - Intro to Software Development
 
@@ -11,16 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Code 201 - Foundations of Software Development
-
-
-## Code 301 - Intermediate Software Development
-
-
-
-Code 401 - Advanced Software Development
-
-### Code 401 - Advanced Software Development
+#  Header
+## Header
+### Header 
 
 - Bulleted
 - List
@@ -35,9 +28,21 @@ Code 401 - Advanced Software Development
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### Code 201 - Foundations of Software Development
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sneakerheadz1/reading-notes.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
+### Code 301 - Intermediate Software Development
+
+
+
+### Code 401 - Advanced Software Development
+
+
+
+
+
 
 ### Support or Contact
 
